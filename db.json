@@ -1,0 +1,57 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "name": "Plix Tender Coconut Water",
+            "price": "₹428",
+            "discount_price": "₹450",
+            "image_url": "https://m.media-amazon.com/images/I/71I8Dy5ZTVL._AC_UL320_.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Hamdard Rooh Afza",
+            "price": "₹157",
+            "discount_price": "₹161",
+            "image_url": "https://m.media-amazon.com/images/I/8104QzYN5ML._AC_UL320_.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Pepsi Zero Sugar",
+            "price": "₹42",
+            "discount_price": "₹43",
+            "image_url": "https://m.media-amazon.com/images/I/61Xvdb5E3sL._AC_UL320_.jpg"
+        }
+    ],
+    "itemDetails": [
+        {
+            "id": "1",
+            "name": "Plix Tender Coconut Water",
+            "description": "Tender Coconut Water Premix Powder (20 Sachets) for hydration and healthy skin.",
+            "price": "₹428",
+            "discount_price": "₹450",
+            "image_url": "https://m.media-amazon.com/images/I/71I8Dy5ZTVL._AC_UL320_.jpg",
+            "quantity": "20 pieces",
+            "benefits": "Hydration, Healthy Skin"
+        },
+        {
+            "id": "2",
+            "name": "Hamdard Rooh Afza",
+            "description": "A refreshing drink to quench your thirst.",
+            "price": "₹157",
+            "discount_price": "₹161",
+            "image_url": "https://m.media-amazon.com/images/I/8104QzYN5ML._AC_UL320_.jpg",
+            "quantity": "750 ml",
+            "benefits": "Refreshing, Energizing"
+        },
+        {
+            "id": "3",
+            "name": "Pepsi Zero Sugar",
+            "description": "Enjoy the classic taste of Pepsi without the sugar.",
+            "price": "₹42",
+            "discount_price": "₹43",
+            "image_url": "https://m.media-amazon.com/images/I/61Xvdb5E3sL._AC_UL320_.jpg",
+            "quantity": "500 ml",
+            "benefits": "Zero Sugar, Refreshing"
+        }
+    ]
+}
